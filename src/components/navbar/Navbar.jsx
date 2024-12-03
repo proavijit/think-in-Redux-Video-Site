@@ -13,7 +13,7 @@ const Navbar = () => {
                     <img
                         className="h-10"
                         src={logoImage}
-                        alt="Learn with Sumit"
+                        alt="logo Name"
                     />
                 </Link>
                 <div
